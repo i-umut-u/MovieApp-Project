@@ -1,0 +1,7 @@
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace
+
+APIConfig.swift
+.DS_Store
